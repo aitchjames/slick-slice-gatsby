@@ -24,7 +24,7 @@ const PaginationStyles = styled.div`
 
         &[disabled] {
             pointer-events: none;
-            color: var(--grey);
+            color: var(--grey); 
         }
     }
 `;
